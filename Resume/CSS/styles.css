@@ -1,0 +1,19 @@
+/* thead,
+tfoot{
+background-color: #333;
+color: #fff; */
+h1,h3{color: #3D5656;
+}
+
+body {
+    background-color:#C3F8FF;
+  }
+  hr {
+    border-color: grey;
+    border-width: 5px;
+    border-style: dotted none none;
+    width: 30%;
+  }
+/* img {
+  border-radius: 50%
+} */
